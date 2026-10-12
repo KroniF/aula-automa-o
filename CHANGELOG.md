@@ -2,7 +2,7 @@
 # Histórico de versões
 
 ## Versão 4 — planejada
-- [ ] Pedido 1: Trocar o emoji por 🚀
+- [x] Pedido 1: Trocar o emoji por 🚀
 - [ ] Pedido 2: Alterar a mensagem de boas-vindas
 - [ ] Pedido 3: Mudar o fundo para roxo
 
